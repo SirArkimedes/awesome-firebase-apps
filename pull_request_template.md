@@ -16,7 +16,7 @@ Platform: **[What platform does your app run on?]**
 
 <!-- Please click or mark (Example: [x]) the tasks as you complete them! -->
 - [ ] This pull request has a descriptive title in the format `Add name of App` (Example: `Add The Wave`), not `Update readme.md` or `Add awesome app`.
-- [ ] Include the platform which your application is ran on. (Example: `- [The Wave] - iOS - Description.`)
+- [ ] Include the platform(s) which your application is ran on. (Example: `- [The Wave] - iOS, Android - Description.`)
   	- Example platforms: iOS, Android, Web
 - [ ] Includes a link to the source. (Example: https://github.com/xYello/ThePost)
 	- Include a short description about the project/theme of the app.
