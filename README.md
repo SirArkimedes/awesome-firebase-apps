@@ -9,3 +9,6 @@ Firebase is a comprehensive mobile development platform. Firebase has many diffe
 
 ## Shopping
 - [The 👋](https://github.com/xYello/ThePost) - Medium for Jeep owners to buy and sell Jeep parts.
+
+## License
+[CCO-1.0](https://github.com/xYello/ThePost/LICENSE)
