@@ -22,6 +22,7 @@ Platform: **[What platform does your app run on?]**
 - [ ] Includes a link to the source. (Example: https://github.com/xYello/ThePost)
 	- Include a short description about the project/theme of the app.
 - [ ] Entry is added at the bottom of the appropriate category.
+- [ ] Entry does **not** start with A/An.
 - [ ] Has consistent formatting and proper spelling/grammar.
 	- The link and description are separated by a dash. <br>Example: `- [AVA] - A typing speed calculator.`
 	- The description starts with an uppercase character and ends with a period.
