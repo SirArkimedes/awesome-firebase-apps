@@ -2,6 +2,7 @@
 <!-- Congrats on creating an Awesome Firebase App! 🎉 -->
 
 
+<!-- If you want to create a new category, please create a separate PR. -->
 <!-- Please fill in the below placeholders -->
 
 **[Insert URL to the open-source application here]**
