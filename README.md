@@ -4,7 +4,7 @@
 Firebase is a comprehensive mobile development platform. Firebase has many different features that can be used in many different ways. This list is to showcase all the awesome ways Firebase is incorportated in open-source applications.
 
 ## Contents
-- [Shopping](#Shopping)
+- [Shopping](#shopping)
 
 
 ## Shopping
