@@ -15,6 +15,7 @@ Firebase is a comprehensive mobile development platform. Firebase has many diffe
 - [The Wave](https://github.com/xYello/ThePost) - iOS - Medium for Jeep owners to buy and sell Jeep parts.
 
 ## Social
+- [MeetPoint](https://github.com/MeetPoint-App/meetpoint-ios) - iOS - Social media application where you can share spontaneous activities.
 
 ## License
 [CCO-1.0](https://raw.githubusercontent.com/SirArkimedes/awesome-firebase-apps/master/LICENSE)
