@@ -9,7 +9,7 @@
 
 **[Explain what this app does and why it should be included here]**
 
-Platform: **[What platform does your app run on?]**
+Platform(s): **[What platform(s) does your app run on?]**
 
 ### By submitting this pull request you confirm you've read and complied with the below requirements 🖖
 
