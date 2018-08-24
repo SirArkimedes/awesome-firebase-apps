@@ -37,3 +37,4 @@ Platform: **[What platform does your app run on?]**
 - [ ] Not a duplicate.
 - [ ] Is not a fork, or similar to, a Firebase example application.
 - [ ] Has an appropriate license. (MIT, Apache 2.0, etc.)
+- [ ] Includes screenshot(s)/gif(s) in the README.
